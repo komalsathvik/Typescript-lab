@@ -13,6 +13,7 @@ function App() {
   ];
   return (
     <>
+      <h1>TypeScript lab</h1>
       <Names name={names} />
     </>
   );
